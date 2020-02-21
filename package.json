@@ -1,0 +1,13 @@
+{
+  "name": "sebgustaw",
+  "version": "1.0.0",
+  "description": "zaliczenie WSB",
+  "repository": "sebgustaw/99133",
+  "main": "index.js",
+  "keywords": [
+  "WSB",
+  "npm",
+  "package",
+  "exam"
+  ]
+  }
